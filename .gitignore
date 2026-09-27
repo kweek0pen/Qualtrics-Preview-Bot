@@ -1,0 +1,34 @@
+# Secrets and login state — never commit
+.env
+qualtrics_auth.json
+.qualtrics_api.json
+browser_profile/
+
+# Python
+venv
+venv/
+__pycache__/
+*.pyc
+
+# Bot output (holds survey answers and chat transcripts)
+runs/
+runs2/
+runs3/
+calib/
+chat_run_*.json
+conversation_logs_aggregated.xlsx
+qualtrics_chat_transcript.xlsx
+CHAT_CHALLENGES.md
+*.log
+
+# Survey exports
+flow_backups/
+survey_dump/
+*.qsf
+
+# Personal session notes
+chat log.md
+
+# macOS / temp
+.DS_Store
+.keylines.tmp
