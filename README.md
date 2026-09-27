@@ -66,7 +66,7 @@ until you allow it:
    Click **OK**. (If you missed it: System Settings → Privacy & Security →
    Automation → turn on Safari under Terminal.)
 
-That's all. The bot doesn't click or type at the system level, so it doesn't need
+The bot doesn't click or type at the system level, so it doesn't need
 Accessibility permission.
 
 ## 4. Add your API key and preview link
